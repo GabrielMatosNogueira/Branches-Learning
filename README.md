@@ -25,6 +25,7 @@ Além disso, a plataforma foi projetada para oferecer **uma interface amigável 
 
 - **Discord**
 - **Unmense**
+- **Figma**
 
 ## Autores:
 
